@@ -1,0 +1,5 @@
+npm install 
+npm start
+
+cd Backend
+pip install "fastapi[all]" --reload
